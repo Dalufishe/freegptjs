@@ -49,3 +49,8 @@ async function main() {
 
 main();
 ```
+
+### Special Thanks
+
+https://github.com/skzhengkai/free-chatgpt-api
+https://github.com/missuo/FreeGPT35
