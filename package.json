@@ -1,0 +1,26 @@
+{
+  "name": "freegptjs",
+  "version": "0.0.1",
+  "description": "This library provides Free access to the OpenAI ChatGPT 3.5 API from JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dalufishe/freegpt-js.git"
+  },
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freegptjs",
+    "gpt",
+    "openai",
+    "free"
+  ],
+  "author": "Dalufishe",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
