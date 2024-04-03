@@ -1,6 +1,6 @@
 {
   "name": "freegptjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This library provides Free access to the OpenAI ChatGPT 3.5 API from JavaScript",
   "main": "index.js",
   "repository": {
