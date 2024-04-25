@@ -38,7 +38,7 @@ const openai = new FreeGPT3();
 
 async function main() {
   const stream = await openai.chat.completions.create({
-    model: "gpt-4",
+    model: "gpt-3.5-turbo",
     messages: [{ role: "user", content: "Hello, Free GPT !" }],
     stream: true,
   });
